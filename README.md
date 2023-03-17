@@ -1,3 +1,10 @@
+# Currency Rate Display
+This project is my assignment for Kampus Merdeka Studi Independen from Hacktiv8
+
+Tools:
+- Chakra UI (component)
+- Axios (HTTP Request library)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
