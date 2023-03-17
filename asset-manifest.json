@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/currency-rate-display/static/css/main.0182111e.css",
+    "main.js": "/currency-rate-display/static/js/main.420fb0d9.js",
+    "index.html": "/currency-rate-display/index.html",
+    "main.0182111e.css.map": "/currency-rate-display/static/css/main.0182111e.css.map",
+    "main.420fb0d9.js.map": "/currency-rate-display/static/js/main.420fb0d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0182111e.css",
+    "static/js/main.420fb0d9.js"
+  ]
+}
