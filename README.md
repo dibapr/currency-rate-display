@@ -5,7 +5,7 @@ Tools:
 - Chakra UI (component)
 - Axios (HTTP Request library)
 
-Demo link: (https://dibapr.github.io/currency-rate-display/)
+Demo link: https://dibapr.github.io/currency-rate-display/
 
 # Getting Started with Create React App
 
